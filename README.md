@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Alt Text](https://i.pinimg.com/564x/27/fd/53/27fd5343a957469dd12ac1f6cd84126b.jpg)
+![Alt Text](https://i.pinimg.com/736x/d2/fc/83/d2fc83060c737d0561d39b01fdd17aa4.jpg)
 
 <!--
 **minekucukavsar/minekucukavsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
