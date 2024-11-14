@@ -6,8 +6,9 @@
 -->
 
 
-- 🔭 I’m currently working as a Risk Modeling & Analytics Specialist
+
+
 - 🌱 I’m currently learning MlOps
 - 💬 Ask me about whatever you want, but not everything😄
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kmine/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kmine/) & [Medium](https://medium.com/@minek.avsar)
 - ⚡ Fun fact: Do not take this life too seriously
