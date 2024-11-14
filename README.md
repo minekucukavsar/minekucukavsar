@@ -8,7 +8,7 @@
 
 
 
-- 🌱 I’m currently learning MlOps
+- 🌱 I’m currently learning MlOps and LLM.
 - 💬 Ask me about whatever you want, but not everything😄
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kmine/) & [Medium](https://medium.com/@minek.avsar)
 - ⚡ Fun fact: Do not take this life too seriously
